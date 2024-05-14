@@ -1,6 +1,6 @@
 ## Hi there 
 
-### **I'm Kristaa (Kirill) 15 y.o. kid developer. I am interested in different programming languages and various interesting projects. I'm learning different programming languages.**
+### **I'm Kristaa (Kirill) 16 y.o. kid developer. I am interested in different programming languages and various interesting projects. I'm learning different programming languages.**
 
 ## Skills
 <p>
