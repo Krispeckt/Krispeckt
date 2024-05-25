@@ -19,7 +19,5 @@
 
 ## Widgets :>
 
-![Git statistic](https://github-readme-stats.vercel.app/api?username=Krispeckt&show_icons=true&hide=&count_private=true&title_color=4F3EB4&text_color=4BF1C4&icon_color=10b981&bg_color=1E1E1E&border_color=4BF1C4&show_icons=true)
+![Git statistic](https://github-readme-stats.vercel.app/api?username=Krispeckt&show_icons=true&hide=&count_private=true&title_color=aa4fde&text_color=7434AFFF&icon_color=10b981&bg_color=1E1E1E&border_color=2f2834&show_icons=false)
 <p/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krispeckt&size_weight=0&count_weight=1&langs_count=5&layout=donut&text_color=4BF1C4&icon_color=10b981&bg_color=1E1E1E&border_color=4BF1C4)
