@@ -2,6 +2,8 @@
 
 ### **I'm Kristaa (Kirill) 16 y.o. kid developer. I am interested in different programming languages and various interesting projects. I'm learning different programming languages.**
 
+<img src="./assets/flex.gif" align="right"><img/>
+
 ## Skills
 <p>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
