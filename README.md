@@ -2,7 +2,7 @@
 
 ### **I'm Kristaa (Kirill) 16 y.o. kid developer. I am interested in different programming languages and various interesting projects. I'm learning different programming languages.**
 
-<img src="./assets/flex.gif" align="right"><img/>
+<img src="https://github.com/Krispeckt/Krispeckt/blob/main/assets/flex.gif?raw=true" width="249px" height="192px" align="right"><img/>
 
 ## Skills
 <p>
