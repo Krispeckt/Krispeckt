@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/figma-090909?style=for-the-badge&logo=figma" alt="">
   <img src="https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux" alt="">
   <img src="https://img.shields.io/badge/mac os-090909?style=for-the-badge&logo=apple" alt="">
-  <img src="https://img.shields.io/badge/mac os-090909?style=for-the-badge&logo=" alt="">
 </div>
 
 ## My projects
