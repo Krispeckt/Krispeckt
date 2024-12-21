@@ -1,7 +1,6 @@
-## Hi there ✨
+# Hi there ✨
 
-### **I'm Kristaa (Kirill) 16 y.o. kid developer, I'm passionate about programming in different languages. At the moment
-my main language is Go**
+### **I'm Kristaa (Kirill) 16 y.o. kid developer, I'm passionate about programming in different languages. At the moment my main language is Go**
 
 <img src="https://github.com/Krispeckt/Krispeckt/blob/main/assets/flex.gif?raw=true" width="249px" height="192px" align="right"><img/>
 
