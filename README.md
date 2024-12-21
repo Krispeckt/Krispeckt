@@ -1,25 +1,35 @@
-## Hi there 
+## Hi there ✨
 
-### **I'm Kristaa (Kirill) 16 y.o. kid developer. I am interested in different programming languages and various interesting projects. I'm learning different programming languages.**
+### **I'm Kristaa (Kirill) 16 y.o. kid developer, I'm passionate about programming in different languages. At the moment
+my main language is Go**
 
 <img src="https://github.com/Krispeckt/Krispeckt/blob/main/assets/flex.gif?raw=true" width="249px" height="192px" align="right"><img/>
 
 ## Skills
-<p>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="50" height="50" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50" alt="TypeScript" /></a>
-<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50" alt="NodeJS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="50" height="50" alt="Figma" /></a>
-</p>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git" alt="">
+  <img src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python" alt="">
+  <img src="https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go" alt="">
+  <img src="https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript" alt="">
+  <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=typescript" alt="">
+  <img src="https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26" alt="">
+  <img src="https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6" alt="">
+  <img src="https://img.shields.io/badge/Postgresql-090909?style=for-the-badge&logo=postgresql" alt="">
+  <img src="https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis" alt="">
+  <img src="https://img.shields.io/badge/prometheus-090909?style=for-the-badge&logo=prometheus&logoColor=FF6709" alt="">
+  <img src="https://img.shields.io/badge/grafana-090909?style=for-the-badge&logo=grafana" alt="">
+  <img src="https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker" alt="">
+  <img src="https://img.shields.io/badge/figma-090909?style=for-the-badge&logo=figma" alt="">
+  <img src="https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux" alt="">
+  <img src="https://img.shields.io/badge/mac os-090909?style=for-the-badge&logo=apple" alt="">
+  <img src="https://img.shields.io/badge/mac os-090909?style=for-the-badge&logo=" alt="">
+</div>
 
 ## My projects
-- **[Chisato](https://discord.com/oauth2/authorize?client_id=1066753199421263923&permissions=70368744177655&scope=bot)** - Multi-Guild bot for RU, UA, EN communities. 
 
-## Widgets :>
-
-![Git statistic](https://github-readme-stats.vercel.app/api?username=Krispeckt&show_icons=true&hide=&count_private=true&title_color=aa4fde&text_color=7434AFFF&icon_color=10b981&bg_color=1E1E1E&border_color=2f2834&show_icons=false)
-<p/>
+- **[Chisato](https://github.com/Chisato-Devs)** - A discord bot with private-rooms & pretty-music & beautiful-design &
+  more
+- **[Harmonize](https://github.com/Harmonize)** - A powerful Lavalink library for disnake
+- **[ClassFlow](https://github.com/Ukit-Fun-Devs)** - A telegram bot for [mgutu](https://mgutm.ru) to view schedules &
+  more
